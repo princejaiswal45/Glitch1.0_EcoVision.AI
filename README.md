@@ -1,0 +1,2 @@
+"Build an offline-first web application that provides quick, reliable, and step-by-step first-aid instructions for common injuries. The app must work even without internet connectivity to ensure accessibility during emergencies. The MVP should cover at least five critical injury types (burns, cuts, fractures, choking, and bleeding) with clear, concise, and user-friendly guidance. The goal is to make life-saving information available instantly, even in remote or low-connectivity areas."
+
